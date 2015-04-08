@@ -1,0 +1,8 @@
+C:\Development\GitHub\MicrosoftLearning\DocumentDB-MVA\sharding demo\2. hash\Utils\bin\Debug\Utils.dll
+C:\Development\GitHub\MicrosoftLearning\DocumentDB-MVA\sharding demo\2. hash\Utils\bin\Debug\Utils.pdb
+C:\Development\GitHub\MicrosoftLearning\DocumentDB-MVA\sharding demo\2. hash\Utils\bin\Debug\Microsoft.Azure.Documents.Client.dll
+C:\Development\GitHub\MicrosoftLearning\DocumentDB-MVA\sharding demo\2. hash\Utils\bin\Debug\Newtonsoft.Json.dll
+C:\Development\GitHub\MicrosoftLearning\DocumentDB-MVA\sharding demo\2. hash\Utils\bin\Debug\Microsoft.Azure.Documents.Client.xml
+C:\Development\GitHub\MicrosoftLearning\DocumentDB-MVA\sharding demo\2. hash\Utils\bin\Debug\Newtonsoft.Json.xml
+C:\Development\GitHub\MicrosoftLearning\DocumentDB-MVA\sharding demo\2. hash\Utils\obj\Debug\Utils.dll
+C:\Development\GitHub\MicrosoftLearning\DocumentDB-MVA\sharding demo\2. hash\Utils\obj\Debug\Utils.pdb
